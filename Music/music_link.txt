@@ -1,0 +1,5 @@
+The music files are greater than 25mb since they are .wav files, hence, cannot be uploaded to Github.
+Download the music files from the following link and extract them to this very folder as they are.
+Don't make any additional changes to the naming convention of the folders or file or the program will not compile.
+
+https://drive.google.com/file/d/1fm6iP8WEW_49M4qmOKDQ1-W43a5sXJCn/view?usp=drive_link
