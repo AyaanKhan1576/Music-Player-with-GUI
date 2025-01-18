@@ -4,8 +4,6 @@ FAST NUCES.
 Ayaan Khan (22i-0832) and Minahil Ali (22i-0849). 
 BAI-A
 
-GitHub Link to Project:
-https://github.com/i220832/i220832_i220849_DS_Project
 
 **To compile this program:**
 1. Make sure you have SFML installed and setup correctly for your Visual Studio or Visual Studio Code
