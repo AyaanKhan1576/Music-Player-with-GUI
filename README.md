@@ -1,22 +1,30 @@
-# i220832_i220849_DS_Project
-Data Structures Final Project - Summers 2024. 
-FAST NUCES. 
-Ayaan Khan (22i-0832) and Minahil Ali (22i-0849). 
+# Music Player with GUI
+---
+
+**Data Structures Final Project – Summer 2024**
+FAST NUCES
+**Ayaan Khan (22i-0832) and Minahil Ali (22i-0849)**
 BAI-A
 
+---
 
-**To compile this program:**
-1. Make sure you have SFML installed and setup correctly for your Visual Studio or Visual Studio Code
-2. Configure the IDE settings appropriately to ensure SFML programs can be compiled
-3. Download the files as they are with their folders without changing the naming convention or contents
-4. Follow instructions in music_link.txt in Music folder to download the songs. Only .wav files will work with this program.
-5. This program will only run on Windows OS. Functionalities are not designed for any other OS.
-6. For Visual Studio Code, run the following lines in the terminal:
-   
-   g++ -IC:\SFML-2.5.1\include -c main.cpp
-   g++ -LC:\SFML-2.5.1\lib .\main.o -o app.exe -lmingw32 -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -lsfml-main
-   ./app
+## To Compile This Program:
 
+1. Ensure that **SFML** is properly installed and configured for Visual Studio or Visual Studio Code.
+2. Configure your IDE settings so that SFML programs can compile successfully.
+3. Download all project files along with their folders **without changing the naming convention or file contents**.
+4. Follow the instructions in `music_link.txt` (located in the **Music** folder) to download the required songs. **Only `.wav` files are supported.**
+5. This program is designed to run **only on Windows OS**; functionalities may not work on other operating systems.
+
+**For Visual Studio Code**, run the following commands in the terminal:
+
+```bash
+g++ -IC:\SFML-2.5.1\include -c main.cpp
+g++ -LC:\SFML-2.5.1\lib .\main.o -o app.exe -lmingw32 -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -lsfml-main
+./app
+```
+
+---
 
 **Project Details:**
 
